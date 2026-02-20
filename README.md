@@ -1,4 +1,4 @@
-# Práctica 1 - React + TypeScript + SWAPI
+# Práctica 1
 
 ## Descripción
 
